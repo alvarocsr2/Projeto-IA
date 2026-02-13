@@ -1,4 +1,4 @@
-![logo_netguard](C:\Users\alvar\Downloads\logo_netguard.png)
+![logo_netguard](logo_netguard.png)
 
 # NetGuard Pro
 
