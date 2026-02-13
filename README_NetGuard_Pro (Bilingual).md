@@ -1,34 +1,12 @@
-
-![logo_netguard](logo_netguard.png)
-```{=html}
+# NetGuard Pro
 <p align="center">
-```
-`<img src="logo_netguard.png" alt="NetGuard Pro Logo" width="260"/>`{=html}
-```{=html}
+  <img width="321" height="327" alt="logo_netguard" src="https://github.com/user-attachments/assets/e7b31f13-3cde-4235-8d2e-610b73b835c0" />
 </p>
-```
-```{=html}
-<h1 align="center">
-```
-NetGuard Pro
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
+<p align="center">
 Empowering Networks. Securing Futures.
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-Solução estratégica de alta performance para redes
-modernas.`<br>`{=html} Performance • Segurança • Escalabilidade
-```{=html}
 </p>
-```
+
+
 ------------------------------------------------------------
 ------------------------------------------------------------
 # 🇪🇸 Versión Oficial -- Español
@@ -150,11 +128,3 @@ Smart traffic distribution ensuring operational stability.
 -   Mid-size and Enterprise Businesses
 
 ------------------------------------------------------------------------
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}NetGuard Pro`</strong>`{=html}`<br>`{=html}
-Performance. Security. Growth.
-```{=html}
-</p>
-```
