@@ -2,10 +2,8 @@
 <p align="center">
   <img width="321" height="327" alt="logo_netguard" src="https://github.com/user-attachments/assets/e7b31f13-3cde-4235-8d2e-610b73b835c0" />
 </p>
-<p align="center">
-Empowering Networks. Securing Futures.
-</p>
 
+### Empowering Networks. Securing Futures.
 
 ------------------------------------------------------------
 ------------------------------------------------------------
