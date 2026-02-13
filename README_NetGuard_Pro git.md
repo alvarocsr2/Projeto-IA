@@ -1,13 +1,8 @@
-![logo_netguard](logo_netguard.png)
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}NetGuard Pro`</strong>`{=html}`<br>`{=html}
-Performance. Security. Growth.
-```{=html}
-</p>
-```
 # NetGuard Pro
+<p align="center">
+  <img width="321" height="327" alt="logo_netguard" src="https://github.com/user-attachments/assets/e7b31f13-3cde-4235-8d2e-610b73b835c0" />
+</p>
+
 
 ### Empowering Networks. Securing Futures.
 
@@ -120,11 +115,6 @@ investimento, entre em contato com nossa equipe.
 
 **NetGuard Pro --- Empowering Networks. Securing Futures.**
 --
-```{=html}
 <p align="center">
-```
-`<strong>`{=html}NetGuard Pro`</strong>`{=html}`<br>`{=html}
-Performance. Security. Growth.
-```{=html}
+ 
 </p>
-```
